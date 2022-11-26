@@ -13,7 +13,7 @@
 <section>
 	<h1>
 		<div class="welcome">
-			<p>tdjgjgjhgjhhgjghjhjsgds</p>
+			
 			<picture>
 				<source srcset="svelte-welcome.webp" type="image/webp" />
 				<img src="svelte-welcome.png" alt="Welcome" />
